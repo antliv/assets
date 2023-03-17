@@ -46,7 +46,7 @@
     "bluebird": "^3.7.2",
     "chalk": "^4.1.2",
     "eslint": "^7.32.0",
-    "ethereum-checksum-address": "0.0.6",
+    "ethereum-checksum-address": "0.0.8",
     "eztz-lib": "^0.1.2",
     "image-size": "^0.8.3",
     "is-image": "^3.0.0",
